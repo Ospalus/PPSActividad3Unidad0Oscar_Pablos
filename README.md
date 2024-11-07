@@ -11,4 +11,4 @@ Como entrega, pega el enlace de tu repositorio creado.
 
 Recuerda que no puedes borrarlo antes de final de curso.
 
-Esta actividad se relaciona con el resultado de aprendizaje RA5b
+
