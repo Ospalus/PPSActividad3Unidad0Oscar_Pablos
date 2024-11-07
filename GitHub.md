@@ -1,7 +1,7 @@
 # Git con GitHub.com
 GitHub es una plataforma de desarrollo colaborativo basada en Git, que permite a los usuarios gestionar y compartir código, colaborar en proyectos de software, y aprovechar diversas herramientas de desarrollo. A continuación te explico cómo abrir una cuenta, iniciar sesión y cómo funciona la plataforma de GitHub.
 
-## 1.-Apertura de cuenta en GitHub.com
+### 1.-Apertura de cuenta en GitHub.com
 
 Para crear una cuenta en GitHub, sigue estos pasos:
 
@@ -12,7 +12,7 @@ Para crear una cuenta en GitHub, sigue estos pasos:
 - **Elige el tipo de cuenta:** GitHub ofrece una cuenta gratuita y planes de pago. La cuenta gratuita es suficiente para la mayoría de los usuarios nuevos.
 - **Verifica tu correo electrónico:** GitHub enviará un correo electrónico a la dirección proporcionada; sigue el enlace de verificación para activar tu cuenta.
 
-## 2. Iniciar sesión en GitHub
+### 2. Iniciar sesión en GitHub
 
 Una vez que tienes una cuenta, puedes iniciar sesión de la siguiente forma:
 
@@ -20,7 +20,7 @@ Una vez que tienes una cuenta, puedes iniciar sesión de la siguiente forma:
 - **Haz clic en "Sign in" (Iniciar sesión):** En la esquina superior derecha.
 - **Ingresa tus credenciales:** Escribe tu nombre de usuario o correo electrónico y contraseña.
 
-## 3. Funcionamiento de la plataforma GitHub
+### 3. Funcionamiento de la plataforma GitHub
 GitHub es una herramienta que funciona sobre Git, un sistema de control de versiones distribuido. A continuación se describen los elementos y funciones clave de GitHub:
 
 - **Repositorios:** Cada proyecto de GitHub se organiza en repositorios (repos). Un repositorio es el lugar donde se almacena el código fuente de un proyecto, junto con el historial de cambios, documentación, issues y otras herramientas colaborativas.
