@@ -163,4 +163,3 @@ Revierte cambios en el historial de commits.
   git reset --hard <ID-del-commit>
   ```
 
-Estos comandos te permitirán trabajar en un flujo básico de Git, administrar cambios, y colaborar eficazmente en proyectos compartidos.
